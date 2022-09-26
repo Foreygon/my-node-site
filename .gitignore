@@ -1,0 +1,6 @@
+/.vscode/
+/node_module/
+/vendor/
+*.ini
+.DS_Store
+*.swp
